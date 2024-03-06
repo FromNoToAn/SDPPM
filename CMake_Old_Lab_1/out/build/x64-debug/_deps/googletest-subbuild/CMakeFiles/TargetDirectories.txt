@@ -1,0 +1,3 @@
+C:/Users/Андрей/Desktop/Проекты С++/SDPPM/CMake_Old_Lab_1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/Андрей/Desktop/Проекты С++/SDPPM/CMake_Old_Lab_1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Андрей/Desktop/Проекты С++/SDPPM/CMake_Old_Lab_1/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
